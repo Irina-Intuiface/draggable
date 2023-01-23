@@ -16,10 +16,10 @@ This plugin is not included in the default Draggable bundle, so you'll need to i
 - ES6:
 
 ```js
-import { Draggable, Plugins } from '@hnrq/draggable';
+import { Draggable, Plugins } from '@Irina-Intuiface/draggable';
 // Or
-// import Draggable from '@hnrq/draggable/lib/draggable';
-// import ResizeMirror from '@hnrq/draggable/lib/plugins/resize-mirror';
+// import Draggable from '@Irina-Intuiface/draggable/lib/draggable';
+// import ResizeMirror from '@Irina-Intuiface/draggable/lib/plugins/resize-mirror';
 
 const draggable = new Draggable(document.querySelectorAll('ul'), {
   draggable: 'li',
@@ -64,7 +64,7 @@ _No options_
 ### Examples
 
 ```js
-import { Sortable, Plugins } from '@hnrq/draggable';
+import { Sortable, Plugins } from '@Irina-Intuiface/draggable';
 
 const sortable = new Sortable(document.querySelectorAll('ul'), {
   draggable: 'li',

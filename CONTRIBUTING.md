@@ -16,14 +16,14 @@ appreciated and encouraged.
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Code of Conduct document](https://github.com/hnrq/draggable/blob/master/CODE_OF_CONDUCT.md).
+This project and everyone participating in it is governed by the [Code of Conduct document](https://github.com/Irina-Intuiface/draggable/blob/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behaviour to henriquealberone@outlook.com.
 
 ## How to contribute
 
 ### Creating issues
 
-Before submitting issues, please have a quick look if there is an existing open issue here: [Issues](https://github.com/hnrq/draggable/issues). If no related issue can be found,
+Before submitting issues, please have a quick look if there is an existing open issue here: [Issues](https://github.com/Irina-Intuiface/draggable/issues). If no related issue can be found,
 please open a new issue with labels: `bug`, `documentation`, `feature-request` or `question`.
 
 ### Opening pull requests

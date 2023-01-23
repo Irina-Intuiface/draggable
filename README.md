@@ -1,6 +1,3 @@
-[![npm version](https://badge.fury.io/js/@hnrq%2Fdraggable.svg)](https://badge.fury.io/js/@hnrq%2Fdraggable)
-[![codecov](https://codecov.io/gh/hnrq/draggable/branch/main/graph/badge.svg?token=LIMBUVCRB9)](https://codecov.io/gh/hnrq/draggable)
-
 <a href="https://shopify.github.io/draggable" title="Visit Draggable website">
   <img src="assets/header.jpg" alt="">
 </a>
@@ -35,7 +32,7 @@ interface, for more information read the documentation below.
 You can install the library via pnpm.
 
 ```
-pnpm install @hnrq/draggable --save
+npm install @Irina-Intuiface/draggable --save
 ```
 
 ## Browser Compatibility
@@ -111,8 +108,3 @@ To run the `examples` project locally, simply run the following from the `exampl
 ```
 pnpm build && pnpm dev
 ```
-
-## Contributing
-
-Contributions are more than welcome, the code base is still new and needs more love.
-For more information, please checkout [CONTRIBUTING.md](https://github.com/hnrq/draggable/blob/master/CONTRIBUTING.md).

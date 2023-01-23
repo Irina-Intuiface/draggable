@@ -11,10 +11,10 @@ This plugin is not included by default, so make sure to import it before using.
 - ES6:
 
 ```js
-import { Sortable, Plugins } from '@hnrq/draggable';
+import { Sortable, Plugins } from '@Irina-Intuiface/draggable';
 // Or
-// import Sortable from '@hnrq/draggable/lib/sortable';
-// import SwapAnimation from '@hnrq/draggable/lib/plugins/swap-animation';
+// import Sortable from '@Irina-Intuiface/draggable/lib/sortable';
+// import SwapAnimation from '@Irina-Intuiface/draggable/lib/plugins/swap-animation';
 
 const sortable = new Sortable(document.querySelectorAll('ul'), {
   draggable: 'li',
@@ -81,7 +81,7 @@ The horizontal option allows you to set the elements to animate horizontally. De
 ### Examples
 
 ```js
-import { Sortable, Plugins } from '@hnrq/draggable';
+import { Sortable, Plugins } from '@Irina-Intuiface/draggable';
 
 const sortable = new Sortable(document.querySelectorAll('ul'), {
   draggable: 'li',

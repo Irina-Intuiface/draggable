@@ -10,10 +10,10 @@ This plugin is not included by default, so make sure to import it before using.
 - ES6:
 
 ```js
-import { Draggable, Plugins } from '@hnrq/draggable';
+import { Draggable, Plugins } from '@Irina-Intuiface/draggable';
 // Or
-// import Draggable from '@hnrq/draggable/lib/draggable';
-// import Snappable from '@hnrq/draggable/lib/plugins/snappable';
+// import Draggable from '@Irina-Intuiface/draggable/lib/draggable';
+// import Snappable from '@Irina-Intuiface/draggable/lib/plugins/snappable';
 
 const draggable = new Draggable(document.querySelectorAll('ul'), {
   draggable: 'li',
@@ -63,7 +63,7 @@ _No options_
 ### Example
 
 ```js
-import { Sortable, Plugins } from '@hnrq/draggable';
+import { Sortable, Plugins } from '@Irina-Intuiface/draggable';
 
 const sortable = new Sortable(document.querySelectorAll('ul'), {
   draggable: 'li',

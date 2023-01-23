@@ -1,13 +1,13 @@
 {
-  "name": "@hnrq/draggable",
-  "version": "0.0.4",
+  "name": "@Irina-Intuiface/draggable",
+  "version": "0.0.1",
   "private": false,
   "type": "module",
   "license": "MIT",
   "description": "The JavaScript Drag & Drop library your grand-grandparents warned you about.",
   "author": "Henrique Ramos <henriquealberone@outlook.com>",
-  "homepage": "https://github.com/hnrq/draggable#readme",
-  "repository": "https://github.com/hnrq/draggable",
+  "homepage": "https://github.com/Irina-Intuiface/draggable#readme",
+  "repository": "https://github.com/Irina-Intuiface/draggable",
   "contributors": [
     {
       "name": "Max Hoffmann",
@@ -23,7 +23,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/hnrq/draggable/issues"
+    "url": "https://github.com/Irina-Intuiface/draggable/issues"
   },
   "keywords": [
     "draggable",

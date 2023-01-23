@@ -4,21 +4,21 @@ The sort animation plugin currently only works with `Sortable`. It adds sort ani
 and animates all sorted elements via `translate3d`. It is currently possible to change the duration and
 the easing function of the animation.
 
-It different with [SwapAnimation](https://github.com/hnrq/draggable/tree/master/src/Plugins/SwapAnimation) plugin because SwapAnimation only support horizontal or vertical layout.
+It different with [SwapAnimation](https://github.com/Irina-Intuiface/draggable/tree/master/src/Plugins/SwapAnimation) plugin because SwapAnimation only support horizontal or vertical layout.
 
 This plugin is not included by default, so make sure to import it before using.
 
-**NOTE**: Don't use this plugin with [SwapAnimation](https://github.com/hnrq/draggable/tree/master/src/Plugins/SwapAnimation) plugin to avoid conflict.
+**NOTE**: Don't use this plugin with [SwapAnimation](https://github.com/Irina-Intuiface/draggable/tree/master/src/Plugins/SwapAnimation) plugin to avoid conflict.
 
 ### Usage
 
 - ES6:
 
 ```js
-import { Sortable, Plugins } from '@hnrq/draggable';
+import { Sortable, Plugins } from '@Irina-Intuiface/draggable';
 // Or
-// import Sortable from '@hnrq/draggable/lib/sortable';
-// import SortAnimation from '@hnrq/draggable/lib/plugins/sort-animation';
+// import Sortable from '@Irina-Intuiface/draggable/lib/sortable';
+// import SortAnimation from '@Irina-Intuiface/draggable/lib/plugins/sort-animation';
 
 const sortable = new Sortable(document.querySelectorAll('ul'), {
   draggable: 'li',
@@ -79,7 +79,7 @@ The easing option allows you to specify an animation easing function. Default: `
 ### Examples
 
 ```js
-import { Sortable, Plugins } from '@hnrq/draggable';
+import { Sortable, Plugins } from '@Irina-Intuiface/draggable';
 
 const sortable = new Sortable(document.querySelectorAll('ul'), {
   draggable: 'li',
