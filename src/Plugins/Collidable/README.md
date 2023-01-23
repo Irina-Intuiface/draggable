@@ -10,10 +10,10 @@ This plugin is not included by default, so make sure to import it before using.
 - ES6:
 
 ```js
-import { Draggable, Plugins } from '@Irina-Intuiface/draggable';
+import { Draggable, Plugins } from '@irina-intuiface/draggable';
 // Or
-// import Draggable from '@Irina-Intuiface/draggable/lib/draggable';
-// import Collidable from '@Irina-Intuiface/draggable/lib/plugins/collidable';
+// import Draggable from '@irina-intuiface/draggable/lib/draggable';
+// import Collidable from '@irina-intuiface/draggable/lib/plugins/collidable';
 
 const draggable = new Draggable(document.querySelectorAll('ul'), {
   draggable: 'li',
@@ -67,7 +67,7 @@ A css selector string, an array of elements, a NodeList, a HTMLElement or a func
 ### Example
 
 ```js
-import { Sortable, Plugins } from '@Irina-Intuiface/draggable';
+import { Sortable, Plugins } from '@irina-intuiface/draggable';
 
 const sortable = new Sortable(document.querySelectorAll('ul'), {
   draggable: 'li',

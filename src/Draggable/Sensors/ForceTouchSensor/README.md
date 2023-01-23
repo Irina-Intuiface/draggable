@@ -38,7 +38,7 @@ Specify a css selector for a handle element if you don't want to allow drag acti
 ### Example
 
 ```js
-import { Draggable, Sensors } from '@Irina-Intuiface/draggable';
+import { Draggable, Sensors } from '@irina-intuiface/draggable';
 
 const draggable = new Draggable(containers, {
   sensors: [Sensors.ForceTouchSensor],

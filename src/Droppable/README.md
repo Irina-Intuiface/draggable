@@ -10,9 +10,9 @@ so they may returned if the drag is canceled or returned.
 - ES6:
 
 ```js
-import { Droppable } from '@Irina-Intuiface/draggable';
+import { Droppable } from '@irina-intuiface/draggable';
 // Or
-// import Droppable from '@Irina-Intuiface/draggable/lib/droppable';
+// import Droppable from '@irina-intuiface/draggable/lib/droppable';
 
 const droppable = new Droppable(document.querySelectorAll('.container'), {
   draggable: '.item',
@@ -123,7 +123,7 @@ This sample HTML and JavaScript will make `.item` elements draggable and droppab
 ```
 
 ```js
-import { Droppable } from '@Irina-Intuiface/draggable';
+import { Droppable } from '@irina-intuiface/draggable';
 
 const droppable = new Droppable(document.querySelectorAll('.container'), {
   draggable: '.item',

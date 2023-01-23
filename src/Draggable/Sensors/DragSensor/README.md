@@ -36,7 +36,7 @@ a mirror. This means there is less control over the mirror.
 ### Example
 
 ```js
-import { Draggable, Sensors } from '@Irina-Intuiface/draggable';
+import { Draggable, Sensors } from '@irina-intuiface/draggable';
 
 const draggable = new Draggable(containers, {
   sensors: [Sensors.DragSensor],

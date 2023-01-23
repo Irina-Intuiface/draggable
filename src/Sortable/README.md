@@ -10,9 +10,9 @@ Make sure to nest draggable elements as immediate children elements to their cor
 - ES6:
 
 ```js
-import { Sortable } from '@Irina-Intuiface/draggable';
+import { Sortable } from '@irina-intuiface/draggable';
 // Or
-// import Sortable from '@Irina-Intuiface/draggable/lib/sortable';
+// import Sortable from '@irina-intuiface/draggable/lib/sortable';
 
 const sortable = new Sortable(document.querySelectorAll('ul'), {
   draggable: 'li',
@@ -74,7 +74,7 @@ Check out [Draggables class identifiers](../Draggable#classes)
 This sample code will make list items sortable:
 
 ```js
-import { Sortable } from '@Irina-Intuiface/draggable';
+import { Sortable } from '@irina-intuiface/draggable';
 
 const sortable = new Sortable(document.querySelectorAll('ul'), {
   draggable: 'li',

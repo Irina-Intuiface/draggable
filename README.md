@@ -32,7 +32,7 @@ interface, for more information read the documentation below.
 You can install the library via pnpm.
 
 ```
-npm install @Irina-Intuiface/draggable --save
+npm install @irina-intuiface/draggable --save
 ```
 
 ## Browser Compatibility

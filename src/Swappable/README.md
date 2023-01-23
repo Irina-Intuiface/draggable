@@ -8,9 +8,9 @@ so any draggable element that gets dragged over will be swapped with the source 
 - ES6:
 
 ```js
-import { Swappable } from '@Irina-Intuiface/draggable';
+import { Swappable } from '@irina-intuiface/draggable';
 // Or
-// import Swappable from '@Irina-Intuiface/draggable/lib/swappable';
+// import Swappable from '@irina-intuiface/draggable/lib/swappable';
 
 const swappable = new Swappable(document.querySelectorAll('ul'), {
   draggable: 'li',
@@ -72,7 +72,7 @@ Check out [Draggables class identifiers](../Draggable#classes)
 This sample code will make list items draggable and allows you to swap them with other draggable elements:
 
 ```js
-import { Swappable } from '@Irina-Intuiface/draggable';
+import { Swappable } from '@irina-intuiface/draggable';
 
 const swappable = new Swappable(document.querySelectorAll('ul'), {
   draggable: 'li',
